@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>fr.matthieu-vergne</groupId>
 		<artifactId>pester</artifactId>
-		<version>1.0-SNAPSHOT</version>
+		<version>1.0</version>
 	</parent>
 
 	<artifactId>pester-samples</artifactId>
@@ -33,7 +33,7 @@
 		<dependency>
 			<groupId>fr.matthieu-vergne</groupId>
 			<artifactId>pester-core</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<version>1.0</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
