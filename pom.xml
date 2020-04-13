@@ -15,11 +15,11 @@
 	</modules>
 
 	<scm>
-		<connection>scm:git:https://matthieu-vergne@github.com/matthieu-vergne/Pester.git</connection>
-		<developerConnection>scm:git:https://matthieu-vergne@github.com/matthieu-vergne/Pester.git</developerConnection>
+		<connection>scm:git:ssh://git@github.com/matthieu-vergne/Pester.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/matthieu-vergne/Pester.git</developerConnection>
 		<url>scm:git:git://github.com/matthieu-vergne/Pester.git</url>
-	  <tag>HEAD</tag>
-  </scm>
+		<tag>HEAD</tag>
+	</scm>
 	
 	<issueManagement>
 		<system>GitHub</system>
